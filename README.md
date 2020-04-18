@@ -16,9 +16,9 @@ A simple chess AI player
 
 ## Example
 
-![svg](output_7_1.svg)
+![svg](https://github.com/gzn00417/Chess-AI/blob/master/output_7_1.svg)
 
-![svg](output_8_1.svg)
+![svg](https://github.com/gzn00417/Chess-AI/blob/master/output_8_1.svg)
 
 ## Power by *gzn00417*
 
