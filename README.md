@@ -16,9 +16,9 @@ A simple chess AI player
 
 ## Example
 
-![image](https://github.com/gzn00417/Chess-AI/blob/master/output_7_1.svg)
+![](https://img-blog.csdnimg.cn/20200423203854730.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d6bjAwNDE3,size_16,color_FFFFFF,t_70)
 
-![image](https://github.com/gzn00417/Chess-AI/blob/master/output_8_1.svg)
+![](https://img-blog.csdnimg.cn/20200423203910740.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d6bjAwNDE3,size_16,color_FFFFFF,t_70)
 
 ## Power by *gzn00417*
 
